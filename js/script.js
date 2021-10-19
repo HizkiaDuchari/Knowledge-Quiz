@@ -95,7 +95,7 @@ var myQuestions = [
 			a: 'Soekarno',
 			b: 'Soeharto',
 			c: 'Megawati',
-            d: 'Jokowo'
+            d: 'Jokowi'
 		},
 		correctAnswer: 'd'
 	}
